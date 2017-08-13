@@ -1,0 +1,5 @@
+# Local python version indicator
+.python-version
+
+# Jupyter checkpoints
+.ipynb_checkpoints
