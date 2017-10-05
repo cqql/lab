@@ -6,5 +6,8 @@ numpy
 scipy
 scikit-learn
 
+# Images
+Pillow
+
 # Plotting/Visualization
 matplotlib
